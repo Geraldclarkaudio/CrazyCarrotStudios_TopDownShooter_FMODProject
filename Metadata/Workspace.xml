@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{2f01f6da-f002-45d3-bf11-589826eab8f5}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../Unity Projects/Crazy Carrot Studios/Assets/FMODBanks</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{b76d446c-67c1-41fa-91a0-2c3d2ec47b21}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{3e288369-0fa4-46fe-9a40-f4a50b8c8632}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{ba7c884f-0d10-4fe4-9c80-0b00507be6f4}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{0189eb48-aeec-48cc-bd7e-5de0c5c00d0f}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{3cf6c04d-b18c-4f81-8ccd-e8f59a342310}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{69e18115-5d83-4e21-b056-68d24f05bf04}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{b55b17b6-2395-4c5d-8c3d-e8a17aa46449}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{ccc2d6dc-a174-4487-ac62-0529ab54c906}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{322ccb0f-2553-4bae-a824-2d99f1b3896f}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{82991f05-fbde-4af3-b272-152f78b2a418}</destination>
+		</relationship>
+	</object>
+</objects>
