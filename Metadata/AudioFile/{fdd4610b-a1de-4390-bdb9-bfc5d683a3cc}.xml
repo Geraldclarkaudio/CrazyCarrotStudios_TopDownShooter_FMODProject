@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{fdd4610b-a1de-4390-bdb9-bfc5d683a3cc}">
 		<property name="assetPath">
-			<value>TDS_MainMenu_1.wav</value>
+			<value>MX/TDS_MainMenu_1.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
