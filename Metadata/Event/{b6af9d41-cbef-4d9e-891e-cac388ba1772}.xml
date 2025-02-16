@@ -63,7 +63,7 @@
 	<object class="MarkerTrack" id="{c74e6e70-78d2-4a37-a4b7-ce51da5ff64e}" />
 	<object class="GroupTrack" id="{47b0c805-d45f-4e21-9681-58cc7da8e942}">
 		<relationship name="modules">
-			<destination>{a32ab266-3eec-4605-a521-7aea9948f2f3}</destination>
+			<destination>{a20e6a3d-c5ef-45a8-b3fb-aa472ed8f523}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{54837ec7-bfb5-472c-8bb5-185cbb11a329}</destination>
@@ -71,7 +71,7 @@
 	</object>
 	<object class="Timeline" id="{613207c7-fef3-4b3d-9303-dcf4c9f17625}">
 		<relationship name="modules">
-			<destination>{a32ab266-3eec-4605-a521-7aea9948f2f3}</destination>
+			<destination>{a20e6a3d-c5ef-45a8-b3fb-aa472ed8f523}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{20ff8f96-cb34-4c53-b5cf-b3116b93fa3d}</destination>
@@ -97,15 +97,18 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{a64c4507-e066-46f3-b1bf-fc900b40f786}" />
-	<object class="SingleSound" id="{a32ab266-3eec-4605-a521-7aea9948f2f3}">
+	<object class="SingleSound" id="{a20e6a3d-c5ef-45a8-b3fb-aa472ed8f523}">
 		<property name="length">
-			<value>96</value>
+			<value>56.47058333333333</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{ffd9d392-a37f-4590-88f6-6f9c3f505cfb}</destination>
+			<destination>{de1576dd-4551-4fe2-9120-c8d5dcf21d9b}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{54837ec7-bfb5-472c-8bb5-185cbb11a329}">
+		<property name="volume">
+			<value>-13.5</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -152,7 +155,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>96</value>
+			<value>56.47058333333333</value>
 		</property>
 		<property name="quantizationInterval">
 			<value>2</value>
@@ -172,7 +175,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>96</value>
+			<value>56.47058333333333</value>
 		</property>
 		<property name="name">
 			<value>Gameplay Loop</value>

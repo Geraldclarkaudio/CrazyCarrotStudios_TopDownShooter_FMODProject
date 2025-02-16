@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{62bfccd2-43ed-4247-bd7f-40b5bb6c3af4}">
+	<object class="AudioFile" id="{de1576dd-4551-4fe2-9120-c8d5dcf21d9b}">
 		<property name="assetPath">
-			<value>Gunshots/Gunshot_Idea1.wav</value>
+			<value>MX/Placeholder/Chill Extended.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.4522708333333334</value>
+			<value>56.47058333333333</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{b55b17b6-2395-4c5d-8c3d-e8a17aa46449}</destination>

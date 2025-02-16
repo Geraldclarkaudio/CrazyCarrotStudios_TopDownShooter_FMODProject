@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{2f01f6da-f002-45d3-bf11-589826eab8f5}">
 		<property name="builtBanksOutputDirectory">
-			<value>../../../Unity Projects/Crazy Carrot Studios/Assets/FMODBanks</value>
+			<value>../../../Unity Projects/Team Projects/Crazy Carrot Studios/Assets/FMODBanks</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{b76d446c-67c1-41fa-91a0-2c3d2ec47b21}</destination>
