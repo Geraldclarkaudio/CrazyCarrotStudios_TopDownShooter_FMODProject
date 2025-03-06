@@ -88,14 +88,14 @@
 		</relationship>
 	</object>
 	<object class="EventSound" id="{e0f6e265-225b-4837-aad5-542342aecce0}">
+		<property name="start">
+			<value>1</value>
+		</property>
 		<relationship name="event">
 			<destination>{f1ca254a-33eb-41f5-9cfd-97f07057e79a}</destination>
 		</relationship>
 	</object>
 	<object class="EventSound" id="{5ea22c8a-0bea-4a98-9289-d628f3c5e6fa}">
-		<property name="start">
-			<value>1</value>
-		</property>
 		<relationship name="event">
 			<destination>{86961ccb-9f82-453e-9de1-f59645703298}</destination>
 		</relationship>
