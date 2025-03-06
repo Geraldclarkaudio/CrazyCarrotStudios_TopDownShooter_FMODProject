@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ac8b311c-608a-4c51-8f03-879203017a68}">
+		<property name="assetPath">
+			<value>Player/HardFloor/Player_FS-001-012.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.11110416666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b55b17b6-2395-4c5d-8c3d-e8a17aa46449}</destination>
+		</relationship>
+	</object>
+</objects>

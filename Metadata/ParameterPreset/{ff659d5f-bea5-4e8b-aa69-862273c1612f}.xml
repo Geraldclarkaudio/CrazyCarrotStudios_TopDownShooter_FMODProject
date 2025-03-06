@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{ff659d5f-bea5-4e8b-aa69-862273c1612f}">
+		<property name="name">
+			<value>AmbienceTransition</value>
+		</property>
+		<relationship name="folder">
+			<destination>{0189eb48-aeec-48cc-bd7e-5de0c5c00d0f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d0750bb8-6eb7-46c4-8a94-d67d9407529f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d0750bb8-6eb7-46c4-8a94-d67d9407529f}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
