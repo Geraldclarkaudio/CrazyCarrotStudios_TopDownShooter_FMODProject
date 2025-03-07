@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{a20c851a-5897-4a94-8b0e-2d200331b2bc}">
+		<property name="name">
+			<value>ProjectilePan</value>
+		</property>
+		<relationship name="folder">
+			<destination>{0189eb48-aeec-48cc-bd7e-5de0c5c00d0f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{6dc02815-3149-4911-bc54-5a7fdcec7cb5}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{6dc02815-3149-4911-bc54-5a7fdcec7cb5}">
+		<property name="minimum">
+			<value>-1</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
